@@ -1,4 +1,4 @@
-# PNP Arm A Telecontrol
+# Teleoperation of Robotic ARM
 
 # PuppetArmControl
 
